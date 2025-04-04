@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: "./", // Ensures correct paths in production
+  base: "/", // Ensures assets are served from root
   build: {
     outDir: "dist",
   }
