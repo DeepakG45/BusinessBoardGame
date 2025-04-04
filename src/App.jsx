@@ -1,5 +1,5 @@
 import React from "react";
-import MonopolyBoard from "./Components/MonopolyBoard";
+import MonopolyBoard from "./Components/monopolyBoard";
 
 const App = () => {
   return (
